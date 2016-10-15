@@ -1,5 +1,5 @@
 ---
-layout: mathjax
+layout: default
 title: MathJax in Markdown example
 ---
 
