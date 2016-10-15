@@ -4,6 +4,4 @@ baseurl: "/using-mathjax-in-markdown" # The subpath of your site.
 url: "https://george-hawkins.github.io" # The base hostname and protocol for your site.
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-    extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
+markdown: kramdown
